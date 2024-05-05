@@ -16,8 +16,11 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 - Run `main.py`.
 
 ### Project Structure
--User inputs student enrollment number and name.
--User clicks "Take Images" to capture images of the student's face.
--User clicks "Train Images" to train the model using the captured images.
--User can then click "Automatic Attendance" to mark attendance automatically using face recognition.
--Optionally, the user can click "Check Registered Students" to view registered students' details.
+- User inputs student enrollment number and name.
+- User clicks "Take Images" to capture images of the student's face.
+- User clicks "Train Images" to train the model using the captured images.
+- User can then click "Automatic Attendance" to mark attendance automatically using face       recognition.
+- Optionally, the user can click "Check Registered Students" to view registered students' details.
+
+### Screenshots
+### Basic UI
