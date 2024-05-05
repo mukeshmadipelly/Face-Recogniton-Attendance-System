@@ -33,4 +33,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 <img src="https://github.com/mukeshmadipelly/Face-Recogniton-Attendance-System-/blob/main/Screenshot_20240505_150256.png">
 
 ### Marking Attendance
-<img src="
+<img src="https://github.com/mukeshmadipelly/Face-Recogniton-Attendance-System-/blob/main/Screenshot_20240505_150306.png">
+
+### Checking the list of Registered Students
+<img src =" 
