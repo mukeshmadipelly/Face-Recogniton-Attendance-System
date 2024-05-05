@@ -24,3 +24,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 
 ### Screenshots
 ### Basic UI
+<img src="https://github.com/mukeshmadipelly/Face-Recogniton-Attendance-System-Uising-Opencv-and-Python/blob/main/Screenshot_20240505_145710.png">
+
+### Taking images to train
+<img src="
